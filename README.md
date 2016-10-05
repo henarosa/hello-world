@@ -1,2 +1,5 @@
 # hello-world
-Just another repository.
+
+Hello!
+
+Jenna here. This is my very first repository.
